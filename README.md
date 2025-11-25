@@ -15,7 +15,7 @@ Welcome to my Looker Studio Portfolio, where I showcase my abilities for data qu
 
 
 ---
-## Project 1: Chicago Taxi Trips
+## Chicago Taxi Trips
 
 The city of Chicago (USA) maintains an excellent [open data portal](https://data.cityofchicago.org/) which includes a dataset on [taxi trips spanning from 2013 to 2023](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data). I've taken a reduced sample corresponding to January of 2023 to create a Looker Studio dashboard that shows a WoW overview of KPIs and other important metrics, a temporal demand and cost analysis, and a geo heatmap for pickup zones. There's also a written report that accompanies the chart.
 
