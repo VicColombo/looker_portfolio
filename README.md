@@ -39,3 +39,6 @@ Across the different times of day, average trip cost rises steadily into the nig
 Key hotspots for taxi pickups include the Walton St. & N. La Salle Dr. intersection in the Rush & Division area and Chicago O’Hare International Airport in Rosemont, both of which serve as major demand hubs.
 
 ### [Preview](https://lookerstudio.google.com/reporting/ff985e2c-b0e5-4710-951e-3c3795b4e92b)
+
+[<img width="901" height="561" alt="image" src="https://github.com/user-attachments/assets/22fb0ab2-1fad-437a-8236-4c0e0ca2eb76" />](https://lookerstudio.google.com/reporting/ff985e2c-b0e5-4710-951e-3c3795b4e92b)
+
